@@ -1,0 +1,24 @@
+era5_wg_climx:
+  crs: 4326
+  data_type: RasterDataset
+  driver: netcdf
+  kwargs:
+    chunks:
+      time: 30
+  path: climx_1_transposed.nc
+era5_wg_variability:
+  crs: 4326
+  data_type: RasterDataset
+  driver: netcdf
+  kwargs:
+    chunks:
+      time: 30
+  path: variability_10_transposed.nc
+era5_wg_historic:
+  crs: 4326
+  data_type: RasterDataset
+  driver: netcdf
+  kwargs:
+    chunks:
+      time: 30
+  path: era5_bangkok_1981-2011.nc
