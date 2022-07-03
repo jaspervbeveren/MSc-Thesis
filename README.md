@@ -1,6 +1,6 @@
 # MSc-Thesis
 This GitHub repository is an element of a MSc thesis as part of the Masters Water Sience and Management at Utrecht University in collaboration with Deltares.
-The files and script in this repository ontribute to the constrution of the workflow as explained in the thesis report.
+The files and script in this repository contribute to the constrution of the workflow as explained in the thesis report.
 The repository is sorted according to the framework in the methodologies and can also be found in the map MSc-Thesis or see the figure below.
 
 If the user wants to dowload the files it's recommended to use Visual Studio Code (https://code.visualstudio.com/). This is not a necessity, it just makes it easier.
